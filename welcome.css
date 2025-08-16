@@ -1,0 +1,31 @@
+body {
+    background-color: #111;
+}
+.a-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: firebrick;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    padding: 10px 20px;
+    font-size: 18px;
+    background: firebrick;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.a-btn {
+    background-color: firebrick;
+}
+
+.txts {
+    color: aliceblue;
+    text-align: center; /* يوسط النص أفقي */
+    margin-top: 20px;   /* ينزل شوي عن أعلى الصفحة */
+}

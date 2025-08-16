@@ -1,0 +1,10 @@
+body {
+    background-color: #111;
+}
+
+
+.txts {
+        color: aliceblue;
+        text-align: center; /* يوسط النص أفقي */
+        margin-top: 20px;   /* ينزل شوي عن أعلى الصفحة */
+}
